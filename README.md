@@ -7,3 +7,10 @@ A temporary dataset of an option chain is provided but this project involves the
 No Nothing, just show enthusiasm and keep your hands open to gain something, we will feed you with the food but you have to eat it, your hunnger will decide how much ypu nourish yourself with this project.
 
 Basic knowledge of Options Pricing and Python would however be a cherry on the cake (though not necessary).
+
+# Week Wise Plan
+Hey guy, this will be our week wise plan for the project
+Note: There may be slight changes in the plan if there is time constraint
+Happy Learning! :
+https://docs.google.com/document/d/1N-gFuRwzPCKVFpmua1iKdXhgZzzUM7lnpkhDQP9vQqo/edit?usp=sharing
+
