@@ -10,7 +10,7 @@ Basic knowledge of Options Pricing and Python would however be a cherry on the c
 
 # Week Wise Plan
 Hey guy, this will be our week wise plan for the project
-Note: There may be slight changes in the plan if there is time constraint
-Happy Learning! :
+Note: There may be slight changes in the plan if there is time constraint.
+Happy Learning! :)
 https://docs.google.com/document/d/1N-gFuRwzPCKVFpmua1iKdXhgZzzUM7lnpkhDQP9vQqo/edit?usp=sharing
 
