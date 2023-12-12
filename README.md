@@ -4,7 +4,7 @@ This project revolves around the Basics of Options Theory and one of the most el
 A temporary dataset of an option chain is provided but this project involves the extraction of data directly by students and prepare it as per their use, they are thereby required to use https://www.nseindia.com/ for this task.
 
 # Pre-requisites
-No Nothing, just show enthusiasm and keep your hands open to gain something, we will feed you with the food but you have to eat it, your hunnger will decide how much ypu nourish yourself with this project.
+No Nothing, just show enthusiasm and keep your hands open to gain something, we will feed you with the food but you have to eat it, your hunger will decide how much ypu nourish yourself with this project.
 
 Basic knowledge of Options Pricing and Python would however be a cherry on the cake (though not necessary).
 
