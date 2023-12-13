@@ -14,6 +14,8 @@ Note: There may be slight changes in the plan if there is time constraint.
 Happy Learning! :)
 https://docs.google.com/document/d/1N-gFuRwzPCKVFpmua1iKdXhgZzzUM7lnpkhDQP9vQqo/edit?usp=sharing
 
+
+# Week 1 - Content 
 # **Python Basics!**
 
 For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Python_review.ipynb).  
