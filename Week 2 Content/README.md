@@ -31,7 +31,7 @@ Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro V
 
 ## Supervised Learning
 1. [What is supervised learning?](https://www.edureka.co/blog/supervised-learning/)
-2. [Linear Regression](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/) and it's [implementation](https://www.edureka.co/blog/linear-regression-for-machine-learning/) or you can refer [this](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/)
+2. [Linear Regression](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/) and it's [implementation](https://www.edureka.co/blog/linear-regression-for-machine-learning/)
 3. [Classification](https://www.edureka.co/blog/classification-algorithms/) and it's [implementation](https://www.edureka.co/blog/classification-in-machine-learning/)
 4. [Overfitting problem in ML](https://www.edureka.co/blog/overfitting-in-machine-learning/) and it's [solution](https://www.edureka.co/blog/regularization-in-machine-learning/)
 
