@@ -11,3 +11,12 @@ Once you are done with the installation part , you can use it by importing it in
 
 Check this [notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Matplotlib.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
 
+## Plotly
+Plotly is a versatile and interactive data visualization library that enables users to create interactive plots and charts. It supports various programming languages, including Python, R, and JavaScript, making it accessible for a wide range of users. Plotly offers a powerful and user-friendly toolset for creating compelling and interactive data visualizations. 
+
+### Installation of Plotly
+check out [this](https://www.geeksforgeeks.org/python-plotly-tutorial/#Installation) for installation guidelines.
+Similar to Matplotlib, after installing, you should be able to use it by the help of **import** keyword.
+
+### Getting Started with Plotly
+
