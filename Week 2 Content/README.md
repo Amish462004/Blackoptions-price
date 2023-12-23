@@ -33,10 +33,11 @@ Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro V
 1. [What is supervised learning?](https://www.edureka.co/blog/supervised-learning/)
 2. [Simple Linear Regression](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/) and it's [python implementation](https://edureka.co/blog/linear-regression-for-machine-learning/#example)
 3. [Multiple Linear Regression(MLR)](https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-python-and-scikit-learn/) and it's [python implementation](https://www.kaggle.com/code/emineyetm/multiple-linear-regression-in-python)
-4. Firstly watch [this](https://www.youtube.com/watch?v=yIYKR4sgzI8) then refer [Classification](https://www.edureka.co/blog/classification-algorithms/) and it's [implementation](https://www.edureka.co/blog/classification-in-machine-learning/)
+4. Firstly watch [this](https://www.youtube.com/watch?v=yIYKR4sgzI8) then refer [Classification](https://www.edureka.co/blog/classification-algorithms/) and it's [implementation](https://www.edureka.co/blog/classification-in-machine-learning/) (Just Logistic Regression Part)
 6. [Overfitting problem in ML](https://www.edureka.co/blog/overfitting-in-machine-learning/) and it's [solution](https://www.edureka.co/blog/regularization-in-machine-learning/)
 
 ## Unsupervised Learning
-1. [What is unsupervised learning?](https://www.edureka.co/blog/unsupervised-learning/)
-2. [K-means clustering](https://www.edureka.co/blog/k-means-clustering-algorithm/)
+1. [What is unsupervised learning?](https://www.edureka.co/blog/unsupervised-learning/).
+Below Provided Content is just if you want to learn more, It's Not required for this Course though.
+2. [K-means clustering](https://www.edureka.co/blog/k-means-clustering-algorithm/).
 3. [K-Nearest Neighbours](https://www.edureka.co/blog/k-nearest-neighbors-algorithm/)
