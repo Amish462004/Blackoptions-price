@@ -37,7 +37,7 @@ Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro V
 6. [Overfitting problem in ML](https://www.edureka.co/blog/overfitting-in-machine-learning/) and it's [solution](https://www.edureka.co/blog/regularization-in-machine-learning/)
 
 ## Unsupervised Learning
-1. [What is unsupervised learning?](https://www.edureka.co/blog/unsupervised-learning/).
-Below Provided Content is just if you want to learn more, It's Not required for this Course though.  
+1. [What is unsupervised learning?](https://www.edureka.co/blog/unsupervised-learning/).  
+Below Provided Content is just if you want to learn more, It's Not required for this Course though.
 2. [K-means clustering](https://www.edureka.co/blog/k-means-clustering-algorithm/).
 3. [K-Nearest Neighbours](https://www.edureka.co/blog/k-nearest-neighbors-algorithm/)
