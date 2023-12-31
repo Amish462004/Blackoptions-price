@@ -1,6 +1,6 @@
 The Week 3 material of the course is quite descriptive and requires a lot of practice, you can definitely not built in a week but can attempt to get the basics, and that’s what we actually need to develop our options price model.
 
-Assuming, you have gained knowledge about Logistic and Linear Regression have the next step to understand what actually a neuron or neural network is , click this link to explore:3Blue1Brown(#https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi).
+Assuming, you have gained knowledge about Logistic and Linear Regression have the next step to understand what actually a neuron or neural network is , click this link to explore: [3Blue1Brown](#https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi).
 
 You can additionally also follow a few detailed courses like https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&si=u9QP0ToIJ8g2DT-7
 Or MIT lecture series for the same https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=eJaVT41ls8D08PtV.
