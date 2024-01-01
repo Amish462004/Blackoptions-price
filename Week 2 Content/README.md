@@ -22,6 +22,10 @@ Similar to Matplotlib, after installing, you should be able to use it by the hel
 For the sake of this project we do not need much knowledge of Plotly library, but we just added this to the course so as to give you a brief understanding of how data visualization can be made interactive which is an essential tool for your journey ahead in data science.
 Please refer this [documentation](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners) for understanding plotly in detail.
 
+## Seaborn
+We've uploaded Resources to learn Seaborn, you you can check out following files:
+
+
 # Intro to ML
 
 Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro Video.
