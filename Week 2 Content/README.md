@@ -24,7 +24,12 @@ Please refer this [documentation](https://www.kaggle.com/code/kanncaa1/plotly-tu
 
 ## Seaborn
 We've uploaded Resources to learn Seaborn, you you can check out following files:
-1. [01-Distribution Plots](https://github.com/Amish462004/Blackoptions-price/blob/main/Week%202%20Content/01-DistributionPlots.ipynb)
+1. 01-Distribution Plots.ipynb
+2. 02-Categorical Plots.ipynb
+3. 03-Matrix Plots.ipynb
+4. 04-Grids.ipynb
+5. 05-Regression Plots.ipynb
+6. 06-Style and Color.ipynb
 
 # Intro to ML
 
